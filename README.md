@@ -8,12 +8,12 @@ This repository contains processed input datasets used in the study **"Unintende
 
 The repository includes the following processed datasets:
 
-- **`dirty.csv`**: Contains processed prompts from the **XSTest dataset**, designed to stress-test defense mechanisms with adversarial and ambiguous inputs.
-- **`gsmeval.csv`**: Processed input data for the GSM8K dataset, focusing on mathematical reasoning tasks.
+- **`dirty.csv`**: Contains processed prompts from the **XSTest dataset**, designed to over defense mechanisms with  ambiguous inputs.
+- **`gsmeval.csv`**: Processed input data for the GSM8K dataset, focusing on easy mathematical reasoning tasks.
 - **`ifeval.csv`**: Processed prompts and evaluation data for the IFEval dataset, emphasizing instruction-following tasks.
 - **`mmlupro.csv`**: Domain-specific processed inputs from the MMLU-Pro dataset, including tasks in health, law, and mathematics.
 - **`oa_eval.csv`**: Clean and safe prompts derived from the Open Assistant dataset.
-- **`xstest_v2_prompts.csv`**: An alternative set of prompts derived from the XSTest dataset for further exploration of defense mechanism responses.
+
 
 ## Purpose of the Data
 
